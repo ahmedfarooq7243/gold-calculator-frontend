@@ -1,6 +1,7 @@
 [build]
 builder = "nixpacks"
-buildCommand = "echo 'No build step needed'"
+buildCommand = "npm install"
 
 [start]
-command = "npx serve ."
+command = "npm start"
+

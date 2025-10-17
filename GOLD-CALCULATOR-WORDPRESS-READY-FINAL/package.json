@@ -1,0 +1,12 @@
+{
+  "name": "gold-calculator-frontend",
+  "version": "1.0.0",
+  "description": "Static gold calculator site",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
